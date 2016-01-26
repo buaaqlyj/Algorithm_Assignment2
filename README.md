@@ -1,6 +1,7 @@
 # Algorithm_Assignment2
 My program for the second assignment of Algorithm class
 
+Under Apache License 2.0
 
 ## Assignment 2
 
